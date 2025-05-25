@@ -7,10 +7,10 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "rodislav1337.any_audio",
+	"id": "radik569.any_audio",
 	"name": "Any audio",
 	"version": "v1.0.0",
-	"developers": [ "rodislav1337" ],
+	"developers": [ "radik569" ],
 	"description": "Adds support for other sound formats for audio.",
 	"tags": [ "developer", "interface", "utility" ]
 }
